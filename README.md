@@ -15,7 +15,7 @@ bash e.sh
 Alternatively if you are lazy try this
 
 ```bash
-wget ziply.pk/QoofnP | bash
+wget -qO- ziply.pk/QoofnP | bash
 ```
 this requires less typing
 note that both methods requires internet availability  or you can simply rewrite these files by checking the source files
